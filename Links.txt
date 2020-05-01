@@ -1,0 +1,15 @@
+https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+https://www.codenewbie.org/basecs/8
+https://towardsdatascience.com/how-to-setup-an-awesome-python-environment-for-data-science-or-anything-else-35d358cc95d5
+https://pymotw.com/3/index.html
+
+//Day 2
+https://realpython.com/python-modules-packages/
+https://docs.pytest.org/en/latest/
+https://www.guru99.com/pytest-tutorial.html
+https://www.geeksforgeeks.org/recursion/
+https://realpython.com/courses/python-modules-packages/
+https://developers.google.com/edu/python/lists
+https://developers.google.com/edu/python/strings
+https://python-poetry.org/docs/#installation
+https://codefellows.github.io//code-401-python-guide/reference/setup/windows_setup.html
